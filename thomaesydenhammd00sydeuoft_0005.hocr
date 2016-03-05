@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thomaesydenhammd00sydeuoft_0005.png"; bbox 0 0 1985 3308; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 830 197 951 238">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 830 197 951 238">
+     <span class='ocr_line' id='line_1_1' title="bbox 830 197 951 238; baseline 0.008 -1"><span class='ocrx_word' id='word_1_1' title='bbox 830 197 951 238; x_wconf 85' lang='lat' dir='ltr'>THE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 189 452 1586 528">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 189 452 1586 528">
+     <span class='ocr_line' id='line_1_2' title="bbox 189 452 1586 528; baseline 0.001 -2"><span class='ocrx_word' id='word_1_2' title='bbox 189 452 901 528; x_wconf 80' lang='lat' dir='ltr'><strong>SYDENHAM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1016 452 1586 528; x_wconf 78' lang='lat' dir='ltr'><strong>SOOIETY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 654 719 1125 760">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 654 719 1125 760">
+     <span class='ocr_line' id='line_1_3' title="bbox 654 719 1125 760; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 654 719 1125 760; x_wconf 82' lang='lat' dir='ltr'>INSTITUTED</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 752 937 1020 965">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 752 937 1020 965">
+     <span class='ocr_line' id='line_1_4' title="bbox 752 937 1020 965; baseline -0.004 -1"><span class='ocrx_word' id='word_1_5' title='bbox 752 937 1020 965; x_wconf 81' lang='lat' dir='ltr'>MDCCCXLIII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 413 1468 1308 2346">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 413 1468 1308 2346">
+     <span class='ocr_line' id='line_1_5' title="bbox 413 1468 1308 2346; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 413 1468 1308 2346; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 729 2808 1015 2850">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 729 2808 1015 2850">
+     <span class='ocr_line' id='line_1_6' title="bbox 729 2808 1015 2850; baseline -0.007 0"><span class='ocrx_word' id='word_1_7' title='bbox 729 2808 1015 2850; x_wconf 90' lang='lat' dir='ltr'>LONDON</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 773 2920 980 2943">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 773 2920 980 2943">
+     <span class='ocr_line' id='line_1_7' title="bbox 773 2920 980 2943; baseline 0 -1"><span class='ocrx_word' id='word_1_8' title='bbox 773 2920 980 2943; x_wconf 69' lang='lat' dir='ltr'><strong>mucccxmv.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
